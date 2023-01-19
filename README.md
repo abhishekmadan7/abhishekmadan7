@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @abhishekmadan7
-- 👀 I’m interested in coding,basketball
 - 🌱 I’m currently learning Computer Engineering at U of T
 - 💞️ I’m looking to collaborate on code
 - 📫 How to reach me abhishekmadan2002@gmail.com
